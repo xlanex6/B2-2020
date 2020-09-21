@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300;400;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Advent Pro', sans-serif;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: solid 4px white;
+  margin: 100px 0 0 100px;
+}
+
+.name {
+  display: flex;
+  margin: 100px 100px 0 0;
+  flex-direction: column;
+  height: 80%;
+  justify-content: space-between;
+  text-align: right;
+  color: white;
+  z-index: 1;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 80px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: lighter;
+  margin: 0;
+}
+
+
+
+header {
+  background-color: #054c55;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  /* padding: 100px; */
+  position: relative;
+}
+
+.bg {
+  position: absolute;
+  background-color: #26b4de;
+  height: 100%;
+  width: 100%;
+  clip-path: polygon(50% 0, 100% 0, 100% 100%, 25% 100%);
+  z-index: 0;
+
+}

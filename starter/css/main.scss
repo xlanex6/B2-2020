@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300;400;700&display=swap');
+
+
+
+// MIXIN
+
+@mixin margin0 {
+  margin: 0;
+}
+
+@mixin square($n) {
+  height: $n;
+  width: $n;
+}
+
+@mixin round {
+  border-radius: 50%;
+}
+
+
+// VARIABLE
+$blue: #26b4de;
+$petrole: #054c55;
+
+
+// Normalization
+body {
+  @include margin0;
+  font-family: 'Advent Pro', sans-serif;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+  margin-top: 100px;
+}
+
+
+$red: #e74c3c;
+
+.button {
+  padding: 15px 30px;
+  background-color: $red;
+  border-radius: 10px;
+  font-weight: bold;
+  color: lighten($red, 40%);
+  transition: all 0.5s;
+
+  &:hover {
+    color: darken($red, 30%);
+    background-color: lighten($red, 10%);
+    padding: 20px 40px;
+  }
+}
+
+
+img {
+  @include square(200px);
+  @include round;
+  border: solid 4px white;
+  margin: 100px 0 0 100px;
+}
+
+.name {
+  display: flex;
+  margin: 100px 100px 0 0;
+  flex-direction: column;
+  height: 80%;
+  justify-content: space-between;
+  text-align: right;
+  color: white;
+  z-index: 1;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: lighter;
+  @include margin0;
+}
+
+.title {
+  h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 80px;
+    @include margin0
+  }
+
+  h2 {
+    @extend h2;
+    margin-bottom: 20px;
+  }
+
+}
+
+
+
+
+
+header {
+  background-color: $petrole;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  /* padding: 100px; */
+  position: relative;
+}
+
+.bg {
+  position: absolute;
+  background-color: $blue;
+  height: 100%;
+  width: 100%;
+  clip-path: polygon(50% 0, 100% 0, 100% 100%, 25% 100%);
+  z-index: 0;
+}

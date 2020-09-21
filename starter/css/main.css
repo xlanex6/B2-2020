@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Advent+Pro:wght@300;400;700&display=swap");
+body {
+  margin: 0;
+  font-family: 'Advent Pro', sans-serif;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+  margin-top: 100px;
+}
+
+.button {
+  padding: 15px 30px;
+  background-color: #e74c3c;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #fdf3f2;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.button:hover {
+  color: #7b190f;
+  background-color: #ed7669;
+  padding: 20px 40px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: solid 4px white;
+  margin: 100px 0 0 100px;
+}
+
+.name {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 100px 100px 0 0;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  height: 80%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-align: right;
+  color: white;
+  z-index: 1;
+}
+
+h2, .title h2 {
+  font-size: 40px;
+  font-weight: lighter;
+  margin: 0;
+}
+
+.title h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 80px;
+  margin: 0;
+}
+
+.title h2 {
+  margin-bottom: 20px;
+}
+
+header {
+  background-color: #054c55;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  /* padding: 100px; */
+  position: relative;
+}
+
+.bg {
+  position: absolute;
+  background-color: #26b4de;
+  height: 100%;
+  width: 100%;
+  -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 25% 100%);
+          clip-path: polygon(50% 0, 100% 0, 100% 100%, 25% 100%);
+  z-index: 0;
+}
+/*# sourceMappingURL=main.css.map */
