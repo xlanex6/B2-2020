@@ -13,9 +13,7 @@ $danger: #e74c3c;
 // REM /// 16px
 // EM // font-size de l'element
 
-@mixin btn-size($n) {
-  font-size: 12px + (4px * $n);
-}
+
 
 @mixin btn-color($hexCode) {
   background-color: $hexCode;
@@ -26,11 +24,61 @@ $danger: #e74c3c;
   }
 }
 
+@for $i from 1 through 5 {
+  .size-#{$i} {
+    font-size: 12px + (4px * $i);
+  }
+}
+
 // SHADOW 
 @for $i from 1 through 5 {
   .shadow-#{$i} {
     box-shadow: $i*2px $i*4px $i*4px lighten(black, 80%);
   }
+}
+
+// color shades 
+@for $i from 1 through 5 {
+
+
+
+  .primary-#{$i} {
+    background-color: darken($primary, $i * 5%);
+    color: white;
+
+    &:hover {
+      background-color: darken($primary, $i * 1%);
+    }
+  }
+
+  .alert-#{$i} {
+    background-color: darken($alert, $i * 5%);
+    color: white;
+
+    &:hover {
+      background-color: darken($alert, $i * 1%);
+    }
+  }
+
+  .success-#{$i} {
+    background-color: darken($success, $i * 5%);
+    color: white;
+
+    &:hover {
+      background-color: darken($success, $i * 1%);
+    }
+  }
+
+  .danger-#{$i} {
+    background-color: darken($danger, $i * 5%);
+    color: white;
+
+    &:hover {
+      background-color: darken($danger, $i * 1%);
+    }
+  }
+
+
 }
 
 
@@ -41,11 +89,10 @@ button {
   border-radius: 5px;
   background-color: inherit;
   transition: background-color ease-in-out 0.4s;
-  @extend .xs;
+  @extend .size-1;
   @extend .shadow-1;
 
   &:focus {
-    // outline: solid 1px blueviolet;
     outline: none
   }
 
@@ -74,26 +121,4 @@ button {
       color: white
     }
   }
-
-  // BTN SIZE
-  &.xs {
-    @include btn-size(1);
-  }
-
-  &.sm {
-    @include btn-size(2);
-  }
-
-  &.xl {
-    @include btn-size(3);
-  }
-
-  &.xxl {
-    @include btn-size(4);
-  }
-
-  &.xxxl {
-    @include btn-size(5);
-  }
-
 }
