@@ -4,9 +4,22 @@
 
 @import "components/button";
 @import "components/card";
+@import "components/header";
 
+
+// ====== RESET ===== 
 body {
-  h3 {
+  margin: 0;
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  h3,
+  h1,
+  p,
+  header {
     margin: 0
   }
 }

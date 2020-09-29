@@ -101,16 +101,13 @@ $phi: 1.61803398875;
   margin-top: 50px;
   width: 200px;
   height: 300px;
-  max-width: 200px;
-  max-height: 300px;
   display: flex;
-  overflow: hidden;
   position: relative;
+  overflow: hidden;
 
 
   .bg {
     position: absolute;
-    background-color: red;
     width: 200px;
     height: 250px;
     background-image: url('https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
@@ -175,10 +172,13 @@ $phi: 1.61803398875;
 
   .add {
     background-color: green;
+
+
   }
 
   .remove {
     background-color: red;
+
   }
 
 
