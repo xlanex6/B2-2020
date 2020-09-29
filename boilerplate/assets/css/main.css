@@ -570,7 +570,26 @@ header svg {
 }
 
 @media all and (min-width: 1024px) and (max-width: 1280px) {
+  header h1 {
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+    font-size: 120px;
+    line-height: 100px;
+  }
+  header p {
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+    font-size: 30px;
+  }
+  header .header-btn {
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+  }
   header svg {
+    margin-top: 60vh;
     -ms-flex-item-align: end;
         align-self: flex-end;
     color: orange;

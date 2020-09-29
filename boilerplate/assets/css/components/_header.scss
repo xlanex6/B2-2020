@@ -38,6 +38,7 @@ header {
     min-height: 40px;
     min-width: 40px;
     margin-top: 65vh;
+    // anmition: nom temps timing repetion 
     animation: bounce 1.4s ease-in-out infinite;
 
   }
@@ -70,7 +71,23 @@ header {
   // desktop
   @media all and (min-width: 1024px) and (max-width: 1280px) {
 
+    h1 {
+      align-self: center;
+      font-size: 120px;
+      line-height: 100px;
+    }
+
+    p {
+      align-self: center;
+      font-size: 30px;
+    }
+
+    .header-btn {
+      align-self: center;
+    }
+
     svg {
+      margin-top: 60vh;
       align-self: flex-end;
       color: orange
     }
