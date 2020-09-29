@@ -1,0 +1,109 @@
+// ================  BUTTONS =========================
+
+// DEFAULT 16px
+// REM /// 16px
+// EM // font-size de l'element
+
+
+
+@mixin btn-color($hexCode) {
+  background-color: $hexCode;
+  color: white;
+
+  &:hover {
+    background-color: lighten($hexCode, 8%);
+  }
+}
+
+@for $i from 1 through 5 {
+  .size-#{$i} {
+    font-size: 12px + (4px * $i);
+  }
+}
+
+
+// color shades 
+@for $i from 1 through 5 {
+
+
+
+  .primary-#{$i} {
+    background-color: darken($primary, $i * 5%);
+    color: white;
+
+    &:hover {
+      background-color: darken($primary, $i * 1%);
+    }
+  }
+
+  .alert-#{$i} {
+    background-color: darken($alert, $i * 5%);
+    color: white;
+
+    &:hover {
+      background-color: darken($alert, $i * 1%);
+    }
+  }
+
+  .success-#{$i} {
+    background-color: darken($success, $i * 5%);
+    color: white;
+
+    &:hover {
+      background-color: darken($success, $i * 1%);
+    }
+  }
+
+  .danger-#{$i} {
+    background-color: darken($danger, $i * 5%);
+    color: white;
+
+    &:hover {
+      background-color: darken($danger, $i * 1%);
+    }
+  }
+
+
+}
+
+
+
+button {
+  padding: 0.125em 0.75em;
+  border: none;
+  border-radius: 5px;
+  background-color: inherit;
+  transition: background-color ease-in-out 0.4s;
+  @extend .size-1;
+  @extend .shadow-1;
+
+  &:focus {
+    outline: none
+  }
+
+  &.primary {
+    @include btn-color($primary);
+  }
+
+  &.success {
+    @include btn-color($success);
+  }
+
+  &.alert {
+    @include btn-color($alert);
+  }
+
+  &.danger {
+    @include btn-color($danger);
+  }
+
+  &.secondary {
+    color: $primary;
+    border: solid 1px $primary;
+
+    &:hover {
+      background-color: $primary;
+      color: white
+    }
+  }
+}

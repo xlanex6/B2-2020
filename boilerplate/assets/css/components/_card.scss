@@ -1,0 +1,185 @@
+$phi: 1.61803398875;
+
+.card {
+  width: 150px;
+  // min-height: calc($phi * 150);
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(rgba(231, 12, 12, 0.4), rgba(0, 0, 0, 0.5)),
+    url(https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/background.png);
+  background-size: cover;
+  color: white;
+  border: solid 4px $primary;
+  transition: all 4s;
+
+  @extend .shadow-5;
+
+  &:hover {
+    border-radius: 5px;
+    background-image: none;
+    color: black;
+  }
+
+
+  &-date {
+    font-size: 10px;
+    align-self: flex-end;
+  }
+
+  &-title {
+    margin-top: 30px;
+    font-size: 18px;
+  }
+
+  &-text {
+    font-size: 10px;
+  }
+
+  &-button {
+    @extend .primary-1;
+    box-shadow: none;
+    align-self: flex-start;
+  }
+
+
+}
+
+.social {
+  margin-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  @extend .shadow-5;
+  border-radius: 5px;
+
+  &:hover {
+
+    .slider {
+      left: 0;
+      top: 0;
+    }
+  }
+
+  svg {
+    height: 60px;
+    width: 60px;
+    color: $facebook;
+  }
+
+  .slider {
+    width: 100%;
+    position: absolute;
+    background-color: $facebook;
+    height: 100%;
+    left: 100%;
+    top: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 1s ease-in-out;
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+
+    svg {
+      color: white;
+    }
+  }
+}
+
+.trade {
+  margin-top: 50px;
+  width: 200px;
+  height: 300px;
+  max-width: 200px;
+  max-height: 300px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+
+
+  .bg {
+    position: absolute;
+    background-color: red;
+    width: 200px;
+    height: 250px;
+    background-image: url('https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+    transition: transform 0.5s ease-in-out;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+
+  // flex-direction: column;
+
+
+  &-footer {
+    z-index: 2;
+    background-color: #f6f6f6;
+    display: flex;
+    flex: 0 0 100%;
+    justify-content: space-between;
+    align-items: center;
+    align-self: flex-end;
+    height: 50px;
+    // overflow: hidden;
+
+    .action {
+      width: 100%;
+      height: 100%;
+      flex: 0 0 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+
+      &:hover {
+        .trade-slider {
+          top: 0;
+        }
+      }
+
+      svg {
+        // color: red;
+        height: 20px;
+        width: 20px;
+      }
+
+      .trade-slider {
+        display: flex;
+        transition: top 0.3s ease-in-out;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 100%;
+        width: 100%;
+        height: 100%;
+        color: white;
+      }
+
+    }
+
+  }
+
+  .add {
+    background-color: green;
+  }
+
+  .remove {
+    background-color: red;
+  }
+
+
+}
