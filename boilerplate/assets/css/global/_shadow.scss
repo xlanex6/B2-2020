@@ -1,5 +1,5 @@
 // SHADOW 
-@for $i from 1 through 5 {
+@for $i from 0 through 5 {
   .shadow-#{$i} {
     box-shadow: $i*2px $i*4px $i*4px lighten(black, 80%);
   }

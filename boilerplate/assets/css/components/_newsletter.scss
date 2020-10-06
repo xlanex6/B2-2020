@@ -1,0 +1,39 @@
+#newsletter {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #283048;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #859398, #283048);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #859398, #283048);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  input {
+    border-radius: 5px;
+    height: 25px;
+    outline: inherit;
+    border: none;
+    padding: 2px 15px;
+
+    &::placeholder {
+      opacity: 60%;
+    }
+  }
+}
+
+#thanks {
+  background: #a8ff78;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #78ffd6, #a8ff78);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #78ffd6, #a8ff78);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #2d3436;
+  text-transform: uppercase;
+}
