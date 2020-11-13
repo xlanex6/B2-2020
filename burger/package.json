@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-101",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve",
+    "production": "npm run build && nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.7"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.3"
+  }
+}
