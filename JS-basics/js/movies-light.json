@@ -367,7 +367,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
     "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
     "release_date": 1406682000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "411728",
@@ -809,7 +811,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg",
     "overview": "The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.",
     "release_date": 1553212800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "412157",
@@ -817,7 +821,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/7QqFn9UzuSnh1uOPeSfYL1MFjkB.jpg",
     "overview": "When a young boy turns up dead in a sleepy Pennsylvania town, a local sanitation truck driver, Donald, plays detective, embarking on a precarious and obsessive investigation to prove the boy was murdered.",
     "release_date": 1555030800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "122",
@@ -1015,7 +1021,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/plnlrtBUULT0rh3Xsjmpubiso3L.jpg",
     "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
     "release_date": 779158800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "337167",
@@ -1272,7 +1280,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/zmmYdPa8Lxx999Af9vnVP4XQ1V6.jpg",
     "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
     "release_date": -54604800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "155",
@@ -1368,7 +1378,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/h3VxEVUOoBZmo79O8RqKvyGiqmE.jpg",
     "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
     "release_date": 1413939600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "348350",
@@ -1608,7 +1620,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
     "overview": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2” as the abbey becomes a horrific battleground between the living and the damned.",
     "release_date": 1536109200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "286217",
@@ -1616,7 +1630,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
     "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
     "release_date": 1443574800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "300681",
@@ -1692,7 +1708,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/fGQAO4RgUzspO7L4u5KXirIn34s.jpg",
     "overview": "In this continuation to the adventure of the demon superhero, an evil elf breaks an ancient pact between humans and creatures, as he declares war against humanity. He is on a mission to release The Golden Army, a deadly group of fighting machines that can destroy the human race. As Hell on Earth is ready to erupt, Hellboy and his crew set out to defeat the evil prince.",
     "release_date": 1215738000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "246655",
@@ -1710,7 +1728,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/ol0DSLOIN8Rq1BcWDTsk6NNwas6.jpg",
     "overview": "On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.",
     "release_date": 1554426000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "396461",
@@ -1739,7 +1759,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/7rIPjn5TUK04O25ZkMyHrGNPgLx.jpg",
     "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
     "release_date": 1370998800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "210577",
@@ -1797,7 +1819,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/7lh0lceTCEatJlsmiwkun5AC4OV.jpg",
     "overview": "When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story—all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.",
     "release_date": 522032400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "177572",
@@ -2032,7 +2056,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
     "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
     "release_date": 1522717200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "82690",
@@ -2075,7 +2101,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg",
     "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school.",
     "release_date": 1433811600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "445629",
@@ -2138,7 +2166,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg",
     "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
     "release_date": 1519257600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "434555",
@@ -2647,7 +2677,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/xlBivetfrtF84Yx0zISShnNtHYe.jpg",
     "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
     "release_date": 489200400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "399055",
@@ -2716,7 +2748,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
     "overview": "A police shootout leaves four thieves dead during an explosive armed robbery attempt in Chicago. Their widows have nothing in common except a debt left behind by their spouses' criminal activities. Hoping to forge a future on their own terms, they join forces to pull off a heist.",
     "release_date": 1541462400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "381237",
@@ -2759,7 +2793,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
     "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
     "release_date": 1478736000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "491418",
@@ -2789,7 +2825,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
     "overview": "When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana must team up with Marcus Brody, Sallah and Elsa Schneider to follow in his father's footsteps and stop the Nazis from recovering the power of eternal life.",
     "release_date": 611974800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "389015",
@@ -2995,7 +3033,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
     "overview": "Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.",
     "release_date": 1548288000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "674",
@@ -3046,7 +3086,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/dQ8TOCYgP9pzQvSb1cmaalYqdb5.jpg",
     "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
     "release_date": 1340758800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "98",
@@ -3147,7 +3189,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
     "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
     "release_date": 1004572800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "194662",
@@ -3222,7 +3266,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg",
     "overview": "In 1847, when Ireland is in the grip of the Great Famine that has ravaged the country for two long years, Feeney, a hardened Irish Ranger who has been fighting for the British Army abroad, returns home to reunite with his estranged family, only to discover the cruelest reality, a black land where death reigns.",
     "release_date": 1536109200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "20352",
@@ -3354,7 +3400,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/8OVKrofCWJtGcHfBSjKH4Ou2ubD.jpg",
     "overview": "In his debut film, assembled entirely from home video footage which he and his partner Tracey shot over the course of a decade, Barker tells the fascinating story behind their journey to conceive.",
     "release_date": 1555030800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "503616",
@@ -3399,7 +3447,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/plzV6fap5bGqMaIpOrihmhtd7lW.jpg",
     "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground 'fight clubs' forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
     "release_date": 939949200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1487",
@@ -3452,7 +3502,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/fIssD3w3SvIhPPmVo4WMgZDVLID.jpg",
     "overview": "A psychological thriller about an eight year old boy named Cole Sear who believes he can see into the world of the dead. A child psychologist named Malcolm Crowe comes to Cole to help him deal with his problem, learning that he really can see ghosts of dead people.",
     "release_date": 933901200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "586654",
@@ -3495,7 +3547,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/czVhhAaSBFpakur7U8pOIDV9NUG.jpg",
     "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
     "release_date": 268621200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "526050",
@@ -3589,7 +3643,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/yBTElYnRkwySYzMunE6urPT9LvT.jpg",
     "overview": "In a social context deteriorated by a countrywide economic crisis, the life of several people will be turned upside down after they meet Cecile, a character who symbolizes desire.",
     "release_date": 1315962000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "548066",
@@ -3886,7 +3942,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/dzWTnkert9EoiPWldWJ15dnfAFl.jpg",
     "overview": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the troupe's artistic director, an ambitious young dancer and a grieving psychotherapist. Some will succumb to the nightmare, others will finally wake up.",
     "release_date": 1539219600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "334543",
@@ -3937,7 +3995,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
     "overview": "After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers.",
     "release_date": 1020214800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "49530",
@@ -4147,7 +4207,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/qTPeDf4Kq6uKbiNmNBmkYZtzOpC.jpg",
     "overview": "Seven-year-old Oskar lives in his own world. Other kids avoid him. He enjoys walking around outside and recording sounds with his toy tape recorder. At a family gathering, Oskar overhears a conversation between two adults that will change his life and worldview forever.",
     "release_date": 1555030800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "68718",
@@ -4190,7 +4252,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
     "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
     "release_date": 882576000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "585747",
@@ -4219,7 +4283,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/6mUZbds1Y6auHZKVMmXDqbInEB1.jpg",
     "overview": "",
     "release_date": 1555030800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "177677",
@@ -4261,7 +4327,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg",
     "overview": "Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical investigator with a reputation for excellence--and hyper-arrogance. Shannon Mullins, one of Boston P.D.'s 'finest,' is foul-mouthed and has a very short fuse, and uses her gut instinct and street smarts to catch the most elusive criminals. Neither has ever had a partner, or a friend for that matter. When these two wildly incompatible law officers join forces to bring down a ruthless drug lord, they become the last thing anyone expected: Buddies.",
     "release_date": 1372294800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "589856",
@@ -4269,7 +4337,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/93fhha9hqegT8IoVmZSCaxDHk5v.jpg",
     "overview": "An 'un-biopic' of the young Hilary Rodham set in 1969, during the unverifiable weeks her autobiography has her working at an Alaskan salmon cannery. A parable about America, political narratives, and the absence of free will.",
     "release_date": 1555030800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "111",
@@ -4277,7 +4347,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/nGY6NnlDsWaRKAycWUgXanqLxia.jpg",
     "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
     "release_date": 439689600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "176",
@@ -4318,7 +4390,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rIfKIYMbwVlnAXOOaQRsm34GW3S.jpg",
     "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
     "release_date": 1243472400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "62764",
@@ -4337,7 +4411,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/dN9LbVNNZFITwfaRjl4tmwGWkRg.jpg",
     "overview": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
     "release_date": 1498611600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1587",
@@ -4356,7 +4432,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/sOxr33wnRuKazR9ClHek73T8qnK.jpg",
     "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
     "release_date": 1387929600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "103",
@@ -4399,7 +4477,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/pLMpv8ckcDP3kiEd2fhwY7XrjHz.jpg",
     "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
     "release_date": 1371690000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "22803",
@@ -4407,7 +4487,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/zRAPh8EbzsXNrVsEbZa9VcKKf6L.jpg",
     "overview": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
     "release_date": 1255568400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10144",
@@ -4470,7 +4552,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/jdL6isPaY13aWFzLUdpbctgArO6.jpg",
     "overview": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
     "release_date": 1501030800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "157350",
@@ -4705,7 +4789,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/8tb3x0rYBGkgOTh1dCXPpmikp1V.jpg",
     "overview": "Barney Ross leads a band of highly skilled mercenaries including knife enthusiast Lee Christmas, a martial arts expert, heavy weapons specialist, demolitionist, and a loose-cannon sniper. When the group is commissioned by the mysterious Mr. Church to assassinate the dictator of a small South American island, Barney and Lee visit the remote locale to scout out their opposition and discover the true nature of the conflict engulfing the city.",
     "release_date": 1280797200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "310",
@@ -4792,7 +4878,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
     "overview": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters – Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth – find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
     "release_date": 1015718400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "809",
@@ -5064,7 +5152,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
     "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
     "release_date": 1197590400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "60599",
@@ -5140,7 +5230,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/7lqsbSbSJVU5jYVso1j3lvC9Ehu.jpg",
     "overview": "Greek general Themistokles attempts to unite all of Greece by leading the charge that will change the course of the war. Themistokles faces the massive invading Persian forces led by mortal-turned-god, Xerxes and Artemesia, the vengeful commander of the Persian navy.",
     "release_date": 1393977600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9659",
@@ -5230,7 +5322,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/pEKStszBzTZCvR0H4tosjqxmE7X.jpg",
     "overview": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott introduces E.T., as the alien is dubbed, to his brother and his little sister, Gertie, and the children decide to keep its existence a secret. Soon, however, E.T. falls ill, resulting in government intervention and a dire situation for both Elliott and the alien.",
     "release_date": 392605200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "11224",
@@ -5397,7 +5491,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/zv6uPdw1C9HZ4sTDS7TV94MKgHV.jpg",
     "overview": "THE SEER AND THE UNSEEN is a magically real fable about invisible elves, financial collapse and the surprising power of belief, told through the story of an Icelandic woman - a real life Lorax who speaks on behalf of nature under threat. Through her heroic story, SEER explores the surprising power of belief, the profound meaning of home; and, the invisible forces - be they elves or the market - that shape our visible worlds and transform our natural landscapes.",
     "release_date": 1555117200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "185",
@@ -5449,7 +5545,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/2jLxKF73SAPkyhIWrnv67IH7kJ1.jpg",
     "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
     "release_date": 1177981200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "70981",
@@ -5457,7 +5555,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/omy5CiDMQnGqQUEJ9gNLOGPZQFW.jpg",
     "overview": "A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.",
     "release_date": 1338339600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "694",
@@ -5579,7 +5679,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
     "overview": "In 1561, Mary Stuart, widow of the King of France, returns to Scotland, reclaims her rightful throne and menaces the future of Queen Elizabeth I as ruler of England, because she has a legitimate claim to the English throne. Betrayals, rebellions, conspiracies and their own life choices imperil both Queens. They experience the bitter cost of power, until their tragic fate is finally fulfilled.",
     "release_date": 1544140800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "465914",
@@ -5597,7 +5699,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/d4J7GotCjvDJBAYayZBTc5nLbbP.jpg",
     "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink white Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
     "release_date": 889142400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "640",
@@ -5775,7 +5879,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg",
     "overview": "Everyone deserves a great love story. But for seventeen-year old Simon Spier it's a little more complicated: he's yet to tell his family or friends he's gay and he doesn't know the identity of the anonymous classmate he's fallen for online.",
     "release_date": 1518739200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "75612",
@@ -5783,7 +5889,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/2ncs7hqBsEjFMqt6Y7ShBCO9tWs.jpg",
     "overview": "Jack Harper is one of the last few drone repairmen stationed on Earth.  Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete.  His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft.  Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.",
     "release_date": 1365555600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "217993",
@@ -5869,7 +5977,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg",
     "overview": "Four young outsiders teleport to a dangerous universe, which alters their physical form in shocking ways. Their lives irrevocably upended, the team must learn to harness their daunting new abilities and work together to save Earth from a former friend turned enemy.",
     "release_date": 1438736400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "320288",
@@ -5924,7 +6034,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg",
     "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these 'Fantastic Four' must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
     "release_date": 1120006800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "73",
@@ -5991,7 +6103,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/1nCzeRj75ygXIG8r63TbkfeqM9x.jpg",
     "overview": "Lonely toymaker Geppetto has his wishes answered when the Blue Fairy arrives to bring his wooden puppet Pinocchio to life. Before becoming a real boy, however, Pinocchio must prove he's worthy as he sets off on an adventure with his whistling sidekick and conscience, Jiminy Cricket.",
     "release_date": -942192000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "500",
@@ -6118,7 +6232,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
     "overview": "Eccentric consulting detective, Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
     "release_date": 1261526400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "398818",
@@ -6161,7 +6277,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/lTVOquzxw2DPF3MKuYd1ynz9F6H.jpg",
     "overview": "With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.",
     "release_date": 1557968400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "448095",
@@ -6507,7 +6625,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/qnngKqAcqfH2pBxDoKu5lxzSbTo.jpg",
     "overview": "Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.",
     "release_date": 1055984400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "13186",
@@ -6607,7 +6727,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
     "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
     "release_date": 924224400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "77",
@@ -6659,7 +6781,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/kcfPHZHSQODLCWdkUVLYATNyEVo.jpg",
     "overview": "A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.",
     "release_date": 1536541200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "646",
@@ -6794,7 +6918,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/r7V92gY3AMO6li17MmGTixAnFcv.jpg",
     "overview": "When Quasimodo defies the evil Frollo and ventures out to the Festival of Fools, the cruel crowd jeers him. Rescued by fellow outcast the gypsy Esmeralda, Quasi soon finds himself battling to save the people and the city he loves.",
     "release_date": 835318800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "107",
@@ -6813,7 +6939,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
     "overview": "Construction worker Douglas Quaid discovers a memory chip in his brain during a virtual-reality trip. He also finds that his past has been invented to conceal a plot of planetary domination. Soon, he's off to Mars to find out who he is and who planted the chip.",
     "release_date": 644202000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "43074",
@@ -6843,7 +6971,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/pf4FoUr2phn5WyZjU7rLXSiW1Ve.jpg",
     "overview": "It's the ultimate buddy cop movie except for one thing: they're not cops.  When two struggling pals dress as police officers for a costume party, they become neighborhood sensations.  But when these newly-minted “heroes” get tangled in a real life web of mobsters and dirty detectives, they must put their fake badges on the line.",
     "release_date": 1407891600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1417",
@@ -7061,7 +7191,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
     "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all 'score.' by their senior prom.",
     "release_date": 931482000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9880",
@@ -7166,7 +7298,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/tOEOlmLP71IojeJ91dyJ9Nsb8O8.jpg",
     "overview": "A man-cub named Mowgli fostered by wolves. After a threat from the tiger Shere Khan, Mowgli is forced to flee the jungle, by which he embarks on a journey of self discovery with the help of the panther, Bagheera and the free-spirited bear, Baloo.",
     "release_date": 1459990800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "7451",
@@ -7174,7 +7308,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
     "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government 'recruits' him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
     "release_date": 1028854800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "813",
@@ -7297,7 +7433,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/630k3gRpPZlUHhCSNoMGlJDRTEN.jpg",
     "overview": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
     "release_date": 1368147600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1271",
@@ -7329,7 +7467,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/mDCBQNhR6R0PVFucJl0O4Hp5klZ.jpg",
     "overview": "As Rebel leaders map their strategy for an all-out attack on the Emperor's newer, bigger Death Star. Han Solo remains frozen in the cavernous desert fortress of Jabba the Hutt, the most loathsome outlaw in the universe, who is also keeping Princess Leia as a slave girl. Now a master of the Force, Luke Skywalker rescues his friends, but he cannot become a true Jedi Knight until he wages his own crucial battle against Darth Vader, who has sworn to win Luke over to the dark side of the Force.",
     "release_date": 422499600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "81003",
@@ -7541,7 +7681,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg",
     "overview": "Having thought that monogamy was never possible, a commitment-phobic career woman may have to face her fears when she meets a good guy.",
     "release_date": 1437094800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "136400",
@@ -7571,7 +7713,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/xCVcnQ2fm77vm7vFjTcrWGjz1Wb.jpg",
     "overview": "A tomboyish girl disguises herself as a young man so she can fight with the Imperial Chinese Army against the invading Huns. With help from wise-cracking dragon Mushu, Mulan just might save her country -- and win the heart of handsome Captain Li Shang.",
     "release_date": 898131600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "138103",
@@ -7650,7 +7794,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
     "overview": "The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.",
     "release_date": 1501722000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1593",
@@ -7749,7 +7895,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/fONOOf3RmWnCKFwSl9e0z61KlZs.jpg",
     "overview": "A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.",
     "release_date": 1197504000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "458423",
@@ -7757,7 +7905,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/vzI4gNJDUwWgmNDSBWxYoeGkIEY.jpg",
     "overview": "Five years after meeting her three fathers, Sophie Sheridan prepares to open her mother’s hotel. In 1979, young Donna Sheridan meets the men who each could be Sophie’s biological father.",
     "release_date": 1531098000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "72105",
@@ -8005,7 +8155,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/gwjHlGjK2xXKpjd65BWyAMwzTWC.jpg",
     "overview": "A group of friends must confront their most terrifying fears when they awaken the dark powers of an ancient spirit board.",
     "release_date": 1414112400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1375",
@@ -8134,7 +8286,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/8WluIY7Omf1hjHnaFW39pGugNmg.jpg",
     "overview": "Renowned British dressmaker Reynolds Woodcock comes across Alma, a young, strong-willed woman, who soon becomes a fixture in his life as his muse and lover.",
     "release_date": 1514160000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "109414",
@@ -8450,7 +8604,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/fSpxlya2TQ4zXEcTdmN3bjtiSZJ.jpg",
     "overview": "A marksman living in exile is coaxed back into action after learning of a plot to kill the president. Ultimately double-crossed and framed for the attempt, he goes on the run to track the real killer and find out who exactly set him up, and why??",
     "release_date": 1174521600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "195589",
@@ -8766,7 +8922,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rqoezyB51GfhiloOB5ZErg5HXas.jpg",
     "overview": "A legendary Native American-hating Army captain nearing retirement in 1892 is given one last assignment: to escort a Cheyenne chief and his family through dangerous territory back to his Montana reservation.",
     "release_date": 1513900800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10327",
@@ -8784,7 +8942,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/6qKM3Rl1tQgOFO1fMA7DAizWZ5n.jpg",
     "overview": "A scheming raccoon fools a mismatched family of forest creatures into helping him repay a debt of food, by invading the new suburban sprawl that popped up while they were hibernating – and learns a lesson about family himself.",
     "release_date": 1147827600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "210860",
@@ -9065,7 +9225,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/wrJjDB8SSJJKcpXVf4KAxZIHvBZ.jpg",
     "overview": "While vacationing with a friend in Paris, an American girl is kidnapped by a gang of human traffickers intent on selling her into forced prostitution. Working against the clock, her ex-spy father must pull out all the stops to save her. But with his best years possibly behind him, the job may be more than he can handle.",
     "release_date": 1203292800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "55721",
@@ -9241,7 +9403,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/3ddHhfMlZHZCefHDeaP8FzSoH4Y.jpg",
     "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
     "release_date": 955587600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "508",
@@ -9367,7 +9531,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/ouYgAatYH4JzIThj6FI3UYf31RI.jpg",
     "overview": "The story of August Pullman – a boy with facial differences – who enters fifth grade, attending a mainstream elementary school for the first time.",
     "release_date": 1510531200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10719",
@@ -9387,7 +9553,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/jFpc9w3RmYeaOXMEfrtgshwVf4u.jpg",
     "overview": "Henry Frankenstein is a doctor who is trying to discover a way to make the dead walk. He succeeds and creates a monster that has to deal with living again.",
     "release_date": -1202774400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "222935",
@@ -9442,7 +9610,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
     "overview": "When mankind beams a radio signal into space, a reply comes from ‘Planet G’, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father, Admiral Shane, expect of him.",
     "release_date": 1334106000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "162",
@@ -9519,7 +9689,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
     "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
     "release_date": 1134345600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "392044",
@@ -9570,7 +9742,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/zd9eNagUB7FEaqffnSw3n3Nii4p.jpg",
     "overview": "A brilliant CIA trainee must prove his worth at the Farm, the agency's secret training grounds, where he learns to watch his back and trust no one.",
     "release_date": 1043971200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "117251",
@@ -9590,7 +9764,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg",
     "overview": "As a CIA officer, Evelyn Salt swore an oath to duty, honor and country. Her loyalty will be tested when a defector accuses her of being a Russian spy. Salt goes on the run, using all her skills and years of experience as a covert operative to elude capture. Salt's efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: 'Who is Salt?'",
     "release_date": 1279674000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "8274",
@@ -9622,7 +9798,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/hL8W0qgoPKw7xQy7LMir2numqsP.jpg",
     "overview": "Called in to recover evidence in the aftermath of a horrific explosion on a New Orleans ferry, Federal agent Doug Carlin gets pulled away from the scene and taken to a top-secret government lab that uses a time-shifting surveillance device to help prevent crime.",
     "release_date": 1164153600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "61791",
@@ -9717,7 +9895,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
     "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
     "release_date": 1504659600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "8467",
@@ -9767,7 +9947,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/5S8VWhy4aE47MOTYqrFitTS5Jpw.jpg",
     "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
     "release_date": -194140800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "259693",
@@ -9972,7 +10154,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/6w1tl5bvnMVc8qenSwqUPFF4MKr.jpg",
     "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
     "release_date": 874630800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1830",
@@ -10037,7 +10221,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/abdsharkteGNBA1BchSZ1DCoMtZ.jpg",
     "overview": "A young American studying in Paris in 1968 strikes up a friendship with a French brother and sister. Set against the background of the '68 Paris student riots.",
     "release_date": 1062378000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "51876",
@@ -10124,7 +10310,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/fucmGeZYM4yzqJUnDTc4pKQNCej.jpg",
     "overview": "Welcome to Rekall, the company that can turn your dreams into real memories. For a factory worker named Douglas Quaid, even though he's got a beautiful wife who he loves, the mind-trip sounds like the perfect vacation from his frustrating life - real memories of life as a super-spy might be just what he needs. But when the procedure goes horribly wrong, Quaid becomes a hunted man. Finding himself on the run from the police - controlled by Chancellor Cohaagen, the leader of the free world - Quaid teams up with a rebel fighter to find the head of the underground resistance and stop Cohaagen. The line between fantasy and reality gets blurred and the fate of his world hangs in the balance as Quaid discovers his true identity, his true love, and his true fate.",
     "release_date": 1343869200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "8077",
@@ -10431,7 +10619,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/9i3plLl89DHMz7mahksDaAo7HIS.jpg",
     "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
     "release_date": 739760400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9473",
@@ -10628,7 +10818,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
     "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
     "release_date": 801277200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "296524",
@@ -10656,7 +10848,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/guhKRHVArTSV0DNoIW1sme6ZSes.jpg",
     "overview": "Iconoclastic, take-no-prisoners cop John McClane, finds himself for the first time on foreign soil after traveling to Moscow to help his wayward son Jack - unaware that Jack is really a highly-trained CIA operative out to stop a nuclear weapons heist. With the Russian underworld in pursuit, and battling a countdown to war, the two McClanes discover that their opposing methods make them unstoppable heroes.",
     "release_date": 1360108800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "440471",
@@ -10711,7 +10905,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
     "overview": "Events over the course of one traumatic night in Paris unfold in reverse-chronological order as the beautiful Alex is brutally raped and beaten by a stranger in the underpass. Her boyfriend and ex-lover take matters into their own hands by hiring two criminals to help them find the rapist so that they can exact revenge. A simultaneously beautiful and terrible examination of the destructive nature of cause and effect, and how time destroys everything.",
     "release_date": 1022029200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "183011",
@@ -10790,7 +10986,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/7a0sai9k5jr7YJRP5S3YIDErMVY.jpg",
     "overview": "Professor Phillip Goodman devotes his life to exposing phony psychics and fraudulent supernatural shenanigans. His skepticism soon gets put to the test when he receives news of three chilling and inexplicable cases -- disturbing visions in an abandoned asylum, a car accident deep in the woods and the spirit of an unborn child. Even scarier -- each of the macabre stories seems to have a sinister connection to the professor's own life.",
     "release_date": 1516406400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "14306",
@@ -10809,7 +11007,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/enFfoFd3TYs6ttTxrBIfmecQPnz.jpg",
     "overview": "The true story of pianist Wladyslaw Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
     "release_date": 1032224400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "405817",
@@ -10900,7 +11100,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/sFyftHJ5wXdZXHDKBhQX2mPWZLr.jpg",
     "overview": "It's 1971, and 2000 members of the Pakistani Army—armed with tanks—are at war with just 150 men in a battalion of Indian soldiers based in the Longewala region of Punjab.",
     "release_date": 868755600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "297761",
@@ -10970,7 +11172,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/5gLDeADaETvwQlQow5szlyuhLbj.jpg",
     "overview": "A true story of survival, as a young couple's chance encounter leads them first to love, and then on the adventure of a lifetime as they face one of the most catastrophic hurricanes in recorded history.",
     "release_date": 1527728400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "594",
@@ -10989,7 +11193,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/yBhFkRY8NsAgYFgfKLClxCwykaE.jpg",
     "overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as an English nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
     "release_date": 754099200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "4982",
@@ -11382,7 +11588,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/hrlfv70HG6SBjJs1ARZqwou38FI.jpg",
     "overview": "The perversion behind imperial Rome, the epic story of Rome's mad Emporer. All the details of his cruel, bizarre reign are revealed right here: His unholy sexual passion for his sister, his marriage to Rome's most infamous prostitute, his fiendishly inventive means of disposing those who would oppose him, and more.",
     "release_date": 285724800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1246",
@@ -11600,7 +11808,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/4nbUlVEg31I8lchI3bu3Oq3Ks4t.jpg",
     "overview": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
     "release_date": 326682000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "296096",
@@ -11820,7 +12030,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
     "overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love – his teenage daughter – dies in a senseless act of politically-motivated terrorism. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
     "release_date": 1506560400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "36643",
@@ -11828,7 +12040,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/3lLFKiVPUoENZuCD19AaXZqeGB0.jpg",
     "overview": "Greed, revenge, world dominance and high-tech terrorism – it's all in a day's work for Bond, who's on a mission to protect a beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance.",
     "release_date": 942796800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "7443",
@@ -11846,7 +12060,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/fJb4M6UAbrwS57bgHxVuC12Abem.jpg",
     "overview": "After getting a taste for blood as children, Hansel and Gretel have become the ultimate vigilantes, hell-bent on retribution. Now, unbeknownst to them, Hansel and Gretel have become the hunted, and must face an evil far greater than witches... their past.",
     "release_date": 1358380800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "667",
@@ -11854,7 +12070,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/gIhS0VC7YzI8pj6zfS3KxsxV0dS.jpg",
     "overview": "A mysterious space craft kidnaps a Russian and American space capsule and brings the world on the verge of another World War. James Bond investigates the case in Japan and meets with his archenemy Blofeld. The fifth film from the legendary James Bond series starring Sean Connery as the British super agent.",
     "release_date": -80697600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "19912",
@@ -12085,7 +12303,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
     "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
     "release_date": 1496710800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "926",
@@ -12118,7 +12338,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/bjiHEhuiwhIygzjczbTPAA07cGc.jpg",
     "overview": "Connie is a wife and mother whose 11-year marriage to Edward has lost its sexual spark. When Connie literally runs into handsome book collector Paul, he sweeps her into an all-consuming affair. But Edward soon becomes suspicious and decides to confront the other man.",
     "release_date": 1020992400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "6978",
@@ -12137,7 +12359,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/fP3ntv026PQ5aTTCBjGgkE60sUM.jpg",
     "overview": "Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?",
     "release_date": 1214874000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "2899",
@@ -12190,7 +12414,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/2mUqHJG7ZiGwZYIylczFCsRPbXM.jpg",
     "overview": "Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.",
     "release_date": 1508979600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "6557",
@@ -12398,7 +12624,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/u3hDPc70JEWbrLruk6sni1OcODe.jpg",
     "overview": "After a violent encounter, Roy finds Rocky and sees something in her eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.",
     "release_date": 1539133200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "856",
@@ -12406,7 +12634,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
     "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
     "release_date": 582858000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "223702",
@@ -12621,7 +12851,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/oJ5ybB57eidPLqZUltrVjshqwcs.jpg",
     "overview": "A criminal organization has obtained two nuclear bombs and are asking for a 100 million pound ransom in the form of diamonds in seven days or they will use the weapons. The secret service sends James Bond to the Bahamas to once again save the world.",
     "release_date": -127699200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "13417",
@@ -12666,7 +12898,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/oDpDXln1x3sbnt8wQBKsU6J5txT.jpg",
     "overview": "In late 1890s Wyoming, Butch Cassidy is the affable, clever and talkative leader of the outlaw Hole in the Wall Gang. His closest companion is the laconic dead-shot 'Sundance Kid'. As the west rapidly becomes civilized, the law finally catches up to Butch, Sundance and their gang.  Chased doggedly by a special posse, the two decide to make their way to South America in hopes of evading their pursuers once and for all.",
     "release_date": -8640000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "254904",
@@ -12866,7 +13100,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rwJVB0muOMhkI5pTt9wwr4XCMBY.jpg",
     "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
     "release_date": 1506042000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "5550",
@@ -13078,7 +13314,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
     "overview": "Furious that her late father only willed her his gloomy-looking mansion rather than his millions, Carrigan Crittenden is ready to burn the place to the ground when she discovers a map to a treasure hidden in the house. But when she enters the rickety mansion to seek her claim, she is frightened away by a wicked wave of ghosts. Determined to get her hands on this hidden fortune, she hires afterlife therapist Dr. James Harvey to exorcise the ghosts from the mansion. Harvey and his daughter Kat move in, and soon Kat meets Casper, the ghost of a young boy who's 'the friendliest ghost you know.' But not so friendly are Casper's uncles--Stretch, Fatso and Stinkie--who are determined to drive all 'fleshies' away.",
     "release_date": 801450000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1427",
@@ -13264,7 +13502,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/93NN95a71MsQ4tR2zSLv8BNK2qh.jpg",
     "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
     "release_date": 1477011600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "85446",
@@ -13282,7 +13522,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
     "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
     "release_date": -438825600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "7191",
@@ -13325,7 +13567,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
     "overview": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
     "release_date": 803091600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "180",
@@ -13410,7 +13654,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/fLTQgFpOJA4iyuazewxPof13xSY.jpg",
     "overview": "Ignoring the warnings of the locals, a group of teenage camp counselors takes on the job of reopening Camp Crystal Lake — on Friday the 13th no less, and raise the ire of Jason Voorhees, a masked, homicidal maniac.",
     "release_date": 1234310400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "15092",
@@ -13623,7 +13869,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/20MSnfTICmwvAs2YJTqcSTjwBDc.jpg",
     "overview": "Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest's whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.",
     "release_date": 1100822400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10131",
@@ -13702,7 +13950,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
     "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as 'the Bugs'.",
     "release_date": 878860800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "755",
@@ -13746,7 +13996,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
     "overview": "A cover-up that spanned four U.S. Presidents pushed the country's first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.",
     "release_date": 1513900800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "23437",
@@ -13823,7 +14075,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/eGNX7nOXzI8OyzidKKjbHYR8aqg.jpg",
     "overview": "Ai Weiwei, famous for his large-scale installation work and his dogged social justice advocacy, created a career-defining work in 2015 with @Large, mounted at Alcatraz, the emblematic site associated with egregious incarceration conditions and radical Native American protest. At the core of @Large were portraits of prisoners of conscience coupled with the opportunity to write letters of solidarity to the imprisoned. In her impassioned and powerful film, exhibition curator Cheryl Haines visits several current and former prisoners, including American whistleblower Chelsea Manning, and learns how these letters were vital to their survival.  “The misconception of totalitarianism is that freedom can be imprisoned. This is not the case. When you constrain freedom, freedom will take flight and land on a windowsill.”\\n — Ai Weiwei",
     "release_date": 1555203600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "686",
@@ -13831,7 +14085,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
     "overview": "Contact is a science fiction film about an encounter with alien intelligence. Based on the novel by Carl Sagan the film starred Jodie Foster as the one chosen scientist who must make some difficult decisions between her beliefs, the truth, and reality.",
     "release_date": 868582800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "433498",
@@ -13839,7 +14095,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg",
     "overview": "Henri “Papillon” Charrière, a safecracker from the Parisian underworld, is wrongfully convicted and sentenced to life imprisonment in the penal colony of French Guiana, where he forges a strong friendship with Louis Dega, a counterfeiter who needs his protection.",
     "release_date": 1504746000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "37136",
@@ -13893,7 +14151,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/pEXMy2g3hyiJzoINR2TnCgKnfjN.jpg",
     "overview": "A film by Elif Akarsu Polat and Cigdem Bozali.",
     "release_date": 1555203600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "340022",
@@ -14043,7 +14303,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/4QNGrKjXS0bxEJgwVhWoHOkbvvV.jpg",
     "overview": "Since the moment they met at age 5, Rosie and Alex have been best friends, facing the highs and lows of growing up side by side. A fleeting shared moment, one missed opportunity, and the decisions that follow send their lives in completely different directions. As each navigates the complexities of life, love, and everything in between, they always find their way back to each other - but is it just friendship, or something more?  Based on Cecelia Ahern's bestselling novel, LOVE, ROSIE is a heart-warming, modern comedy-of-errors posing the ultimate question: do we really only get one shot at true love?",
     "release_date": 1413421200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "97630",
@@ -14106,7 +14368,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/d73UqZWyw3MUMpeaFcENgLZ2kWS.jpg",
     "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien 'puppy' of an independent little girl named Lilo and learns about loyalty, friendship, and 'ohana, the Hawaiian tradition of family.",
     "release_date": 1024621200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "398181",
@@ -14193,7 +14457,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/bsr6HmhxYOmJ2wab5tlOA69QkQo.jpg",
     "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli 'The Bare Necessities' of life and the true meaning of friendship.",
     "release_date": -69724800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9279",
@@ -14233,7 +14499,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/kkUMGON2uFRlxI3zIMFdjqARnbb.jpg",
     "overview": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
     "release_date": 1472086800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "16614",
@@ -14377,7 +14645,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/a0YOhU3zq0RkOYrVlPXCeE1oFkR.jpg",
     "overview": "After Dr. Bill Hartford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
     "release_date": 932086800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "142061",
@@ -14518,7 +14788,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/qCPMjT8Ld8tvs1zs7LY2jpKlRIK.jpg",
     "overview": "A tough, renegade cop with a gay sidekick is dispatched to take down a serial killer who has been targeting police officers.",
     "release_date": 1305853200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "3170",
@@ -14629,7 +14901,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/9AxWBqQIAYA4WHP25fU5P1sWw06.jpg",
     "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her – but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
     "release_date": 1284512400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "4133",
@@ -14637,7 +14911,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/ii4sylRdQnLFPMCLhaER7vb0J6N.jpg",
     "overview": "A boy named George Jung grows up in a struggling family in the 1950's. His mother nags at her husband as he is trying to make a living for the family. It is finally revealed that George's father cannot make a living and the family goes bankrupt. George does not want the same thing to happen to him, and his friend Tuna, in the 1960's, suggests that he deal marijuana. He is a big hit in California in the 1960's, yet he goes to jail, where he finds out about the wonders of cocaine. As a result, when released, he gets rich by bringing cocaine to America. However, he soon pays the price.",
     "release_date": 986346000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "598",
@@ -14677,7 +14953,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/63pBekwgDeDthPZzADssCmSrYwL.jpg",
     "overview": "Dating coach Alex 'Hitch' Hitchens mentors a bumbling client, Albert, who hopes to win the heart of the glamorous Allegra Cole. While Albert makes progress, Hitch faces his own romantic setbacks when proven techniques fail to work on Sara Melas, a tabloid reporter digging for dirt on Allegra Cole's love life. When Sara discovers Hitch's connection to Albert – now Allegra's boyfriend – it threatens to destroy both relationships.",
     "release_date": 1108080000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "11679",
@@ -14759,7 +15037,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/s95jXFmDsCJEcdVnEtXyfZPFpvq.jpg",
     "overview": "New York City. Melvin Udall, a cranky, bigoted, obsessive-compulsive writer, finds his life turned upside down when neighboring gay artist Simon is hospitalized and his dog is entrusted to Melvin. In addition, Carol, the only waitress who will tolerate him, must leave work to care for her sick son, making it impossible for Melvin to eat breakfast.",
     "release_date": 882489600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "565",
@@ -14816,7 +15096,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/kpDjt9N52zUZYMqe7TCCn04DZvp.jpg",
     "overview": "Hassled by the school bullies, Daniel LaRusso has his share of adolescent woes. Luckily, his apartment building houses a resident martial arts master: Kesuke Miyagi, who agrees to train Daniel ... and ends up teaching him much more than self-defense. Armed with newfound confidence, skill and wisdom, Daniel ultimately faces off against his tormentors in this hugely popular classic underdog tale.",
     "release_date": 456714000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "589848",
@@ -14834,7 +15116,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/gHU2hCZ94g4yYwSVSwQBEZV7Ffq.jpg",
     "overview": "",
     "release_date": 1554944400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "525",
@@ -15006,7 +15290,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/wmUeEacsFZzDndaeOtNNmy26rYJ.jpg",
     "overview": "Dr. Ryan Stone, a brilliant medical engineer on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.",
     "release_date": 1380762000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9611",
@@ -15069,7 +15355,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
     "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
     "release_date": -340588800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "517839",
@@ -15077,7 +15365,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/8KzOTRlKjdAKQTemV41hq86ldFS.jpg",
     "overview": "When a border guard with a sixth sense for identifying smugglers encounters the first person she cannot prove is guilty, she is forced to confront terrifying revelations about herself and humankind.",
     "release_date": 1538010000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "308369",
@@ -15119,7 +15409,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/wNfmx8HvlIouzT54ptMWzXw5XiG.jpg",
     "overview": "A husband is on trial for the attempted murder of his wife, in what is seemingly an open/shut case for the ambitious district attorney trying to put him away. However, there are surprises for both around every corner, and, as a suspenseful game of cat-and-mouse is played out, each must manipulate and outwit the other.",
     "release_date": 1177030800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "74534",
@@ -15257,7 +15549,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/E4twRNScyq3g6tRpvK6X8LdD1z.jpg",
     "overview": "After being uprooted by his parents' separation and unable to fit into his new hometown, a teenager stumbles upon a magical app that causes his social media updates to come true.",
     "release_date": 1518134400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "7840",
@@ -15676,7 +15970,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg",
     "overview": "6th-century Scandinavian warrior, Beowulf embarks on a mission to slay the a man-like ogre, Grendel.",
     "release_date": 1194220800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "146198",
@@ -16091,7 +16387,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/z0K8uoNbrYKkbaP7wIeadJ4BmSL.jpg",
     "overview": "A thrilling and inspiring true story begins on the eve of World War II as, within days of becoming Prime Minister of Great Britain, Winston Churchill must face one of his most turbulent and defining trials: exploring a negotiated peace treaty with Nazi Germany, or standing firm to fight for the ideals, liberty and freedom of a nation. As the unstoppable Nazi forces roll across Western Europe and the threat of invasion is imminent, and with an unprepared public, a skeptical King, and his own party plotting against him, Churchill must withstand his darkest hour, rally a nation, and attempt to change the course of world history.",
     "release_date": 1511308800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "4944",
@@ -16144,7 +16442,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/oe3XoAL0he16IWLHFzdg32q5ty6.jpg",
     "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.",
     "release_date": 1436490000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "167073",
@@ -16163,7 +16463,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/td5uOBW41ib1KGz3g1Kc33BdFyj.jpg",
     "overview": "Las Vegas showroom magician Cris Johnson has a secret which torments him: he can see a few minutes into the future. Sick of the examinations he underwent as a child and the interest of the government and medical establishment in his power, he lies low under an assumed name in Vegas, performing cheap tricks and living off small-time gambling 'winnings.' But when a terrorist group threatens to detonate a nuclear device in Los Angeles, government agent Callie Ferris must use all her wiles to capture Cris and convince him to help her stop the cataclysm.",
     "release_date": 1177376400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "419680",
@@ -16327,7 +16629,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
     "overview": "A single mother gives her son a beloved doll for his birthday, only to discover that it is possessed by the soul of a serial killer.",
     "release_date": 594950400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10473",
@@ -16394,7 +16698,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg",
     "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath. Harry eventually collars Scorpio in the process of rescuing a kidnap victim, only to see him walk on technicalities. Now, the maverick detective is determined to nail the maniac himself.",
     "release_date": 62121600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "332411",
@@ -16427,7 +16733,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
     "overview": "Set in Canton, China in the 1940s, the story revolves in a town ruled by the Axe Gang, Sing who desperately wants to become a member. He stumbles into a slum ruled by eccentric landlords who turns out to be the greatest kung-fu masters in disguise. Sing's actions eventually cause the Axe Gang and the slumlords to engage in an explosive kung-fu battle. Only one side will win and only one hero will emerge as the greatest kung-fu master of all.",
     "release_date": 1076371200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1936",
@@ -16558,7 +16866,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/uGj7NH3rFsUOmSBiPxsv4EBqHk5.jpg",
     "overview": "Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families.",
     "release_date": 1157677200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "300671",
@@ -16746,7 +17056,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
     "overview": "A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.",
     "release_date": 798426000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "489925",
@@ -16765,7 +17077,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/cD3oTI7tYoTF3kKXI8Y8gDl8Q5M.jpg",
     "overview": "",
     "release_date": 1554944400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "74",
@@ -16797,7 +17111,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/9UDl3jgTsITaaIJw8nlo9TdW7if.jpg",
     "overview": "Master thief Will Montgomery is just released from the State penitentiary after serving a 10 year sentence, is contacted by Vincent, his ex comrade in crime, who is holding Will’s teenage daughter ransom in a hijacked taxi cab. Vincent will only surrender her when Will reveals the whereabouts of the 20 million dollars he contrived to conceal from their last robbery.",
     "release_date": 1346893200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "2024",
@@ -16970,7 +17286,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg",
     "overview": "After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.",
     "release_date": 1476320400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "365222",
@@ -17114,7 +17432,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/qRmQazyIBZR4pQIk9VruiZul0Au.jpg",
     "overview": "On a bleak future Earth, a soldier endures a radical genetic transformation to save humanity. But his wife fears he's becoming more creature than man.",
     "release_date": 1522371600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "17295",
@@ -17122,7 +17442,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/9fHkCuYEKsu7j0xsI2HbBvlZNZc.jpg",
     "overview": "Tracing the struggle of the Algerian Front de Liberation Nationale to gain freedom from French colonial rule as seen through the eyes of Ali from his start as a petty thief to his rise to prominence in the organisation and capture by the French in 1957. The film traces the rebels' struggle and the increasingly extreme measures taken by the French government to quell the revolt.",
     "release_date": -104630400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10303",
@@ -17212,7 +17534,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/urVlSfM8lVVKurnN5rWXx7t8Pz8.jpg",
     "overview": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
     "release_date": 845600400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "3049",
@@ -17492,7 +17816,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/4wBG5kbfagTQclETblPRRGihk0I.jpg",
     "overview": "A romantic comedy about a family traveling to the French capital for business. The party includes a young engaged couple forced to confront the illusion that a life different from their own is better.",
     "release_date": 1305075600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9679",
@@ -17654,7 +17980,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/xcnXNDy0GpX0Z5bR3YTKdoe1rnd.jpg",
     "overview": "A lethal virus spreads throughout the British isles, infecting millions and killing hundreds of thousands. To contain the threat, acting authorities brutally quarantine the country as it succumbs to fear and chaos. The quarantine is successful. Three decades later, the Reaper virus violently resurfaces in a major city. An elite group of specialists is urgently dispatched into the still-quarantined country to retrieve a cure by any means necessary. Shut off from the rest of the world, the unit must battle through a landscape that has become a waking nightmare.",
     "release_date": 1205452800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "18240",
@@ -17662,7 +17990,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/3llEDAKXexgVpSqiK17BS4wtJhC.jpg",
     "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
     "release_date": 1243818000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9671",
@@ -17748,7 +18078,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg",
     "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
     "release_date": 1507770000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9737",
@@ -17780,7 +18112,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/8nEWEFsRfwpyU0OP3Jv4Boxl5MY.jpg",
     "overview": "A sexually repressed woman's husband is having an affair with her sister. The arrival of a visitor with a rather unusual fetish changes everything.",
     "release_date": 619405200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9928",
@@ -18103,7 +18437,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
     "overview": "He dwells in a world of eternal night, but the blackness is filled with sounds and scents, tastes and textures that most cannot perceive. Although attorney Matt Murdock is blind, his other four senses function with superhuman sharpness. By day, Murdock represents the downtrodden. At night he is Daredevil, a masked vigilante stalking the dark streets of the city, a relentless avenger of justice.",
     "release_date": 1045180800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "14069",
@@ -18111,7 +18447,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
     "overview": "When 17-year-old Makoto Konno gains the ability to, quite literally, 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
     "release_date": 1152925200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "417261",
@@ -18204,7 +18542,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/cjcrkPeQkrkEVYrd3lHWJbfBdrv.jpg",
     "overview": "Living a bleak existence at a London orphanage, 12-year-old Peter finds himself whisked away to the fantastical world of Neverland. Adventure awaits as he meets new friend James Hook and the warrior Tiger Lily. They must band together to save Neverland from the ruthless pirate Blackbeard. Along the way, the rebellious and mischievous boy discovers his true destiny, becoming the hero forever known as Peter Pan.",
     "release_date": 1443056400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "11104",
@@ -18286,7 +18626,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/hyZkNEbNgnciUVTyu4NZTjlCh4L.jpg",
     "overview": "A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.",
     "release_date": 1028250000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9327",
@@ -18430,7 +18772,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/2ojkboS6epiX5dBE0pLPyFE5I6z.jpg",
     "overview": "Jackie Chan reprises his role as Chan Ka-Kui (also known in some versions as Jackie) yet again as a Hong Kong cop who works with Interpol to track down and arrest an illegal weapons dealer. Later Jackie realizes that things are not as simple as they appear and soon find himself a pawn of an organisation posing as Russian intelligence.",
     "release_date": 823910400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "17578",
@@ -18497,7 +18841,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/ftbT0aIOYmp1Ns2rerzRXsHF29v.jpg",
     "overview": "Set in 1879 Paris. An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.",
     "release_date": 1481673600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10474",
@@ -18661,7 +19007,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/gIzWSz3yz2TAUXvMREAE0QZFNBn.jpg",
     "overview": "Walking with Dinosaurs 3D is a film depicting life-like 3D dinosaur characters set in photo-real landscapes that transports audiences to the prehistoric world as it existed 70 million years ago. The film is based on the 1999 documentary television miniseries Walking with Dinosaurs, produced by the BBC. Walking with Dinosaurs 3D is being produced by Evergreen Studios, the company that produced Happy Feet, and it is was released on October 11, 2013.",
     "release_date": 1387324800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "39691",
@@ -18845,7 +19193,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/so9xla7b7WfFiarDwOukhQpRuyd.jpg",
     "overview": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations.",
     "release_date": 1160096400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "277547",
@@ -18885,7 +19235,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/tbhKhF6SAkCgXDJwNdDtiK3lqvS.jpg",
     "overview": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
     "release_date": 1105574400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "888",
@@ -18927,7 +19279,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rSBkU4g4uvZQIMOSpvrmvR4VwhA.jpg",
     "overview": "A group of people try to survive an attack of bloodthirsty zombies while trapped in a rural Pennsylvania farmhouse. Although not the first zombie film, NIGHT OF THE LIVING DEAD is the progenitor of the contemporary 'zombie apocalypse' horror film, and it greatly influenced the modern pop-culture zombie archetype.",
     "release_date": -39484800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "193756",
@@ -19013,7 +19367,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/dlnccJQuRQuxnpDdDtmFlW7MKH1.jpg",
     "overview": "Two American tourists in England are attacked by a werewolf that none of the locals will admit exists.",
     "release_date": 367203600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "455236",
@@ -19044,7 +19400,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/oXwpl4mdd8MYPkUMggREzSf9c5R.jpg",
     "overview": "Phil and Claire Foster fear that their mild-mannered relationship may be falling into a stale rut. During their weekly date night, their dinner reservation leads to their being mistaken for a couple of thieves – and now a number of unsavoury characters want Phil and Claire killed.",
     "release_date": 1270688400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "15357",
@@ -19160,7 +19518,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rSje3FS7ycJSglowlngjsvDt7vO.jpg",
     "overview": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home.",
     "release_date": 958698000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10010",
@@ -19487,7 +19847,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/jV0eDViuTRf9cmj4H0JNvbvaNbR.jpg",
     "overview": "Brennan Huff and Dale Doback might be grown men. But that doesn't stop them from living at home and turning into jealous, competitive stepbrothers when their single parents marry. Brennan's constant competition with Dale strains his mom's marriage to Dale's dad, leaving everyone to wonder whether they'll ever see eye to eye.",
     "release_date": 1202169600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "261470",
@@ -19565,7 +19927,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
     "overview": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
     "release_date": 373248000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "528773",
@@ -19593,7 +19957,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/swJ3VuuSMJUDoi899VuXG5OqmPG.jpg",
     "overview": "Theseus is a mortal man chosen by Zeus to lead the fight against the ruthless King Hyperion, who is on a rampage across Greece to obtain a weapon that can destroy humanity.",
     "release_date": 1320883200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "426",
@@ -19611,7 +19977,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/yyejodyk3lWncVjVhhrEkPctY9o.jpg",
     "overview": "A mother concerned about her young son's disturbing behavior thinks something supernatural may be affecting him.",
     "release_date": 1549411200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "381",
@@ -19629,7 +19997,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/iKLZEAnjzr51Ij7TJtNejc5CN3i.jpg",
     "overview": "The story of the Arthurian legend, based on the 'Sarmatian hypothesis' which contends that the legend has a historical nucleus in the Sarmatian heavy cavalry troops stationed in Britain, and that the Roman-British military commander, Lucius Artorius Castus is the historical person behind the legend.",
     "release_date": 1089162000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "270487",
@@ -19647,7 +20017,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/cwB0t4OHX1Pw1Umzc9jPgzalUpS.jpg",
     "overview": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
     "release_date": 1022202000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "180863",
@@ -19687,7 +20059,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rCoO8HqyJiFMhsAOUjjnw8gMgj9.jpg",
     "overview": "Jack Beauregard, one of the greatest gunman of the Old West, only wants to retire in peace and move to Europe. But a young gunfighter, known as 'Nobody', who idolizes Beauregard, wants him to go out in glory. So he arranges for Jack to face the 150-man gang known as The Wild Bunch and earn his place in history.",
     "release_date": 124588800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "256591",
@@ -19817,7 +20191,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg",
     "overview": "The Fighter, is a drama about boxer 'Irish' Micky Ward's unlikely road to the world light welterweight title. His Rocky-like rise was shepherded by half-brother Dicky, a boxer-turned-trainer who rebounded in life after nearly being KO'd by drugs and crime.",
     "release_date": 1292544000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "10312",
@@ -20012,7 +20388,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/7xpFXAOjgzFPE3vyVerFGfrXhFK.jpg",
     "overview": "As America's stock of athletic young men is depleted during World War II, a professional all-female baseball league springs up in the Midwest, funded by publicity-hungry candy maker Walter Harvey (Garry Marshall). Competitive sisters Dottie Hinson (Geena Davis) and Kit Keller (Lori Petty) spar with each other, scout Ernie Capadino (Jon Lovitz) and grumpy has-been coach Jimmy Dugan (Tom Hanks) on their way to fame. Madonna and Rosie O'Donnell co-star as two of the sisters' teammates.",
     "release_date": 709952400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "57165",
@@ -20232,7 +20610,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/hFVWRWDRMdH6piSb3NmSq0E9kh7.jpg",
     "overview": "Jamie returns to his hometown in search of answers to his wife's murder, which occurred after receiving a weird package containing a ventriloquist dummy named Billy, which may be linked to the legend of ventriloquist Mary Shaw. Destined to find out the truth, Jamie goes to the town of Raven's Fair, where Shaw used to perform and is buried. But Jamie is in for more than he expected.",
     "release_date": 1174003200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "2259",
@@ -20455,7 +20835,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/m5kz9dXHhAqzxknwuACvcgJmQSH.jpg",
     "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
     "release_date": 1299024000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "2207",
@@ -20496,7 +20878,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/pYeY5lBudgWAunG4qlsWCA3PlxM.jpg",
     "overview": "Olive, an average high school student, sees her below-the-radar existence turn around overnight once she decides to use the school's gossip grapevine to advance her social standing. Now her classmates are turning against her and the school board is becoming concerned, including her favorite teacher and the distracted guidance counselor. With the support of her hilariously idiosyncratic parents and a little help from a long-time crush, Olive attempts to take on her notorious new identity and crush the rumor mill once and for all.",
     "release_date": 1284598800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "11397",
@@ -20648,7 +21032,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
     "overview": "When Claire Spencer starts hearing ghostly voices and seeing spooky images, she wonders if an otherworldly spirit is trying to contact her. All the while, her husband tries to reassure her by telling her it's all in her head. But as Claire investigates, she discovers that the man she loves might know more than he's letting on.",
     "release_date": 964141200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "520360",
@@ -20679,7 +21065,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
     "overview": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
     "release_date": 977875200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "20497",
@@ -20811,7 +21199,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/s0S2KXGRHxOYu8zCcV5p5sczw9d.jpg",
     "overview": "The spoiled daughter of a well-to-do plantation owner is forced to use every means at her disposal to claw her way out of poverty, following Maj. Gen. William Sherman's destructive 'March to the Sea,” during the American Civil War.",
     "release_date": -948240000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "15370",
@@ -20879,7 +21269,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/ylXKcKrEHSQEYLntBvYxGBI7Ld3.jpg",
     "overview": "Storks deliver babies…or at least they used to. Now they deliver packages for a global internet retail giant. Junior, the company’s top delivery stork, is about to be promoted when he accidentally activates the Baby Making Machine, producing an adorable and wholly unauthorized baby girl...",
     "release_date": 1474506000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9642",
@@ -20975,7 +21367,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/nmWh1NglDinfkHD9zCNqGWyhl7Q.jpg",
     "overview": "When a casino owning dog named Charlie is murdered by his rival Carface, he finds himself in Heaven basically by default since all dogs go to heaven. However, since he wants to get back at his killer, he cons his way back to the living with the warning that doing that damns him to Hell. Once back, he teams with his old partner, Itchy to prep his retaliation. He also stumbles on to an orphan girl who can talk to the animals, thus allowing him to get the inside info on the races to ensure his wins to finance his plans. However, all the while, he is still haunted by nightmares on what's waiting for him on the other side unless he can prove that he is worthy of Heaven again.",
     "release_date": 627264000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "334",
@@ -21133,7 +21527,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg",
     "overview": "After crossing the border illegally for work, Miguel, a hard-working father and devoted husband, finds himself wrongfully accused of murdering a former sheriff’s wife. After learning of his imprisonment, Miguel’s pregnant wife tries to come to his aid and lands in the hands of corrupt coyotes who hold her for ransom. Dissatisfied with the police department’s investigation, the former sheriff tries to uncover the truth about his wife’s death and discovers disturbing evidence that will destroy one family’s future, or tear another’s apart.",
     "release_date": 1406768400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "8374",
@@ -21231,7 +21627,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg",
     "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
     "release_date": -921884400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9336",
@@ -21373,7 +21771,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/gaugOXEtSKoMhwLaD4oHxlFzwMV.jpg",
     "overview": "The Words follows young writer Rory Jansen who finally achieves long sought after literary success after publishing the next great American novel. There's only one catch - he didn't write it. As the past comes back to haunt him and his literary star continues to rise, Jansen is forced to confront the steep price that must be paid for stealing another man's work, and for placing ambition and success above life's most fundamental three words.",
     "release_date": 1346979600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "13700",
@@ -21449,7 +21849,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/utb73E9kvYGeYawkH1BG8lEENS6.jpg",
     "overview": "Françoise has just been dumped by her husband for a much younger woman. In order to cheer her up, and to celebrate her 60th birthday, sisters Rose and Alice decide to take their mother to a resort on the tropical island of Reunion so they can relax, work on their tans, and have too many margaritas. But when Rose pays a one-night stand, Thierry, to show her mother a good time, their holiday plans start to unravel.",
     "release_date": 1524013200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "36648",
@@ -21472,7 +21874,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg",
     "overview": "A college student, who sees a UFO, uses his exceptional math skills to investigate the sighting with his friends while the FBI follows closely behind.",
     "release_date": 1536022800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "354556",
@@ -21480,7 +21884,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/qQB4RKFeUMqLBiMdwMbpgdePBeO.jpg",
     "overview": "During the Cold War, an organization called 'Patriot' created a super-hero squad, which includes members of multiple soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again.",
     "release_date": 1487030400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "323676",
@@ -21592,7 +21998,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/v7Zaj1IEzMMB7KzfglpxdXWB66u.jpg",
     "overview": "After losing the love of his life to a cruel Philistine prince, a young Hebrew with Supernatural strength defends his people, sacrificing everything to avenge his love, his people, and his God.",
     "release_date": 1518739200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "417870",
@@ -21709,7 +22117,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg",
     "overview": "From the moment she arrives in Freiberg, Germany, to attend the prestigious Tanz Academy, American ballet-dancer Suzy Bannion senses that something horribly evil lurks within the walls of the age-old institution.",
     "release_date": 223603200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "7520",
@@ -21728,7 +22138,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/dvEggyDTTIBDvrUNjTEa9depT0f.jpg",
     "overview": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer – and unexpectedly falling in love.",
     "release_date": 556506000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9530",
@@ -21746,7 +22158,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/5vn11azwHTmwMwWeRjvds1wh0BL.jpg",
     "overview": "Ebeneezer Scrooge (Alastair Sim) contentedly meanders through his life as a cruel miser until one fateful Christmas Eve when he is visited by three ghosts. The spirits show him how his behavior over the years has made him a lonely, bitter old man, and how his heart has grown colder. Using events from Scrooge's idealistic past, dreary present and dismal future, the apparitions try their best to melt his steely soul. Tightfisted Ebeneezer Scrooge learns the error of his ways through the intervention of the ghost of his former partner and of the three spirits and, just in time for the holidays, manages to make everyone's lives a little brighter, his included! (The Title has been changed to 'A Christmas Carol')",
     "release_date": -571017600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "27581",
@@ -21925,7 +22339,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/qOTcfD2DdnOTmhH0r1TOE09VvNh.jpg",
     "overview": "More than a dozen Angelenos navigate Valentine's Day from early morning until midnight. Three couples awake together, but each relationship will sputter; are any worth saving? A grade-school boy wants flowers for his first true love; two high school seniors plan first-time sex at noon; a TV sports reporter gets the assignment to find romance in LA; a star quarterback contemplates his future; two strangers meet on a plane; grandparents, together for years, face a crisis; and, an 'I Hate Valentine's Day' dinner beckons the lonely and the lied to. Can Cupid finish his work by midnight?",
     "release_date": 1265760000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "521784",
@@ -22049,7 +22465,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/aQFwKTNzp02rk0GFRAjTdmbZBNh.jpg",
     "overview": "Fortune hunter Holly Golightly finds herself captivated by aspiring writer Paul Varjak, who's moved into her building on a wealthy woman's dime. As romance blooms between Paul and Holly, Doc Golightly shows up on the scene, revealing Holly's past.",
     "release_date": -260064000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "16320",
@@ -22057,7 +22475,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/2ZOm4cedJanmN85ZiWrwZPUNv0d.jpg",
     "overview": "When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything – or anyone – to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.",
     "release_date": 1125709200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "36586",
@@ -22103,7 +22523,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/bX8TP2qRWh2OcmeUHGn1ENDkCu6.jpg",
     "overview": "For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he’s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.",
     "release_date": 1297641600,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "11319",
@@ -22144,7 +22566,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg",
     "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
     "release_date": 906080400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "274862",
@@ -22210,7 +22634,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/nKhhDFCdzxeJ3GUunQ570LDpUkz.jpg",
     "overview": "Dylan and Jamie think it's going to be easy to add the simple act of sex to their friendship, despite what Hollywood romantic comedies would have them believe. They soon discover however that getting physical really does always lead to complications.",
     "release_date": 1311210000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "423612",
@@ -22348,7 +22774,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/apUSR9WE7lMATBGYhzZ8RnPDYsK.jpg",
     "overview": "A young lawyer defends a black man accused of murdering two men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
     "release_date": 838170000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "54054",
@@ -22356,7 +22784,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/e3OK2ZaHiGDrNClRBREVaGdvvQG.jpg",
     "overview": "An unemployed lingerie buyer convinces her bail bondsman cousin to give her a shot as a bounty hunter. Her first assignment is to track down a former cop on the run for murder – the same man who broke her heart years before. With the help of some friends and the best bounty hunter in the business, she slowly learns what it takes to be a true bounty hunter.",
     "release_date": 1327536000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "1620",
@@ -22817,7 +23247,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
     "overview": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturale. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
     "release_date": 176947200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "704",
@@ -22849,7 +23281,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/1BcINsarvlpmhNJu0XFdBVnEPrj.jpg",
     "overview": "A traumatized Vietnam war veteran finds out that his post-war life isn't what he believes it to be when he's attacked by horned creatures in the subway and his dead son comes to visit him...",
     "release_date": 657504000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "9292",
@@ -22892,7 +23326,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/c2XSGkpAIIof6Oi8Sr6wBvwt1Lk.jpg",
     "overview": "Based on the play 'Cyrano de Bergerac', large nosed C.D. Bales falls for the beautiful Roxanne while she falls for his personality but another man's looks.",
     "release_date": 551062800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "58151",
@@ -23097,7 +23533,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/aGDG7eMDrzj84A7rPHLnRjUe711.jpg",
     "overview": "A year after losing his friend in a tragic 4,000-foot fall, former ranger Gabe Walker and his partner, Hal, are called to return to the same peak to rescue a group of stranded climbers, only to learn the climbers are actually thieving hijackers who are looking for boxes full of money.",
     "release_date": 738550800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "301337",
@@ -23163,7 +23601,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg",
     "overview": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.",
     "release_date": 1369098000,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "153",
@@ -23239,7 +23679,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/t642WwGifbQ2fEuKTJRgpPzsgtX.jpg",
     "overview": "Mr. Wilson's ever-present annoyance comes in the form of one mischievous kid named Dennis. But he'll need Dennis's tricks to uncover a collection of gold coins that go missing when a shady drifter named Switchblade Sam comes to town.",
     "release_date": 740797200,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "485942",
@@ -23363,7 +23805,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/98zsG0FX7z6R4i5q0HONLM21dpt.jpg",
     "overview": "The Mystery Inc. gang have gone their separate ways and have been apart for two years, until they each receive an invitation to Spooky Island. Not knowing that the others have also been invited, they show up and discover an amusement park that affects young visitors in very strange ways.",
     "release_date": 1024016400,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "754",
@@ -23382,7 +23826,9 @@
     "poster": "https://image.tmdb.org/t/p/w500/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg",
     "overview": "Professional photographer L.B. 'Jeff' Jeffries breaks his leg while getting an action shot at an auto race. Confined to his New York apartment, he spends his time looking out of the rear window observing the neighbors. He begins to suspect that a man across the courtyard may have murdered his wife. Jeff enlists the help of his high society fashion-consultant girlfriend Lisa Freemont and his visiting nurse Stella to investigate.",
     "release_date": -486604800,
-    "genres": []
+    "genres": [
+      "Nul"
+    ]
   },
   {
     "id": "902",

@@ -28,6 +28,8 @@ functionName(argument)
 ```
 ````
 
+typeof
+
 ARRAY
 
 let AAA = ['a','b']

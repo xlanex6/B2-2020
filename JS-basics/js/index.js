@@ -54,6 +54,6 @@ function genre() {
 // salutation(432424234)
 // 'Salut Alex'
 
-// console.log(movies.length);
+console.log((movies[0].genres));
 
 
