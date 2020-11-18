@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VUE 101</title>
+  </head>
+  <body>
+
+    <div id="app">
+      <h1>First page in VUE</h1>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat expedita animi odit corrupti enim quam quae
+        vel
+        distinctio praesentium ab. Deserunt corporis molestias architecto maiores laborum maxime quidem quibusdam ipsam?
+        Numquam maiores nesciunt odit fugiat impedit necessitatibus corporis totam perspiciatis error, praesentium
+        cumque {{ date }}
+        quasi molestiae saepe veniam quam. Aliquam corrupti, natus dolorem sunt ipsum quaerat? Iusto eum ipsam
+        laudantium
+        voluptas quisquam obcaecati esse corporis et dolorum! Officiis, laborum. Blanditiis quia nesciunt, est explicabo
+        veniam totam a aspernatur laudantium tempore ullam commodi reiciendis ipsum nemo? Autem animi sunt, officia
+        itaque
+        debitis repellendus consequuntur blanditiis natus architecto laudantium assumenda adipisci aliquam voluptate!</p>
+      <button @click="showDate()">SHOW ME THE DATE</button>
+      {{name}}
+      <h3> {{ number + number2 }}</h3>
+      <button @click="showDate()">SHOW ME THE DATE</button>
+      <p> la date est : {{ date }}</p>
+
+      <div>{{date}}</div>
+
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+    <script>
+// SINGLE PAGE APP  - SPA
+      var vm = new Vue({
+        el: '#app',
+        data: {
+          name: "alexD-CODE",
+          number: 1,
+          number2: 10,
+          date: null
+        },
+        methods: {
+          showDate() {
+            this.date = new Date()
+        }
+        // 
+        // function showDate() {
+
+        // }
+          
+        }
+
+      })
+
+
+      Vue.config.devtools = true
+    </script>
+  </body>
+</html>
