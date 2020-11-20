@@ -5,52 +5,61 @@
 
 
     <h1>LOGIN APP</h1>
+     <MajorChecker :age="age" />
+
     <div class="form-input">
       <label for="email">Email</label>
       <input type="text" v-model="email">
     </div>
+
+    <FormInput    />
+
     <div class="form-input">
       <label for="password">Password</label>
       <input type="password" v-model="password">
     </div>
+
     <div class="form-input">
       <label for="firstName">firstName</label>
-      <input type="text" v-model="firstName"> <span :hidden="fieldsAreBlank">{{firstName.length }}</span>
+      <input type="text" v-model="firstName">
+      <span :hidden="fieldsAreBlank">{{firstName.length }}</span>
     </div>
+
     <div class="form-input">
       <label for="age">Age</label>
-
-
       <input type="number" v-model.number="age">
-
-
     </div>
+
+
  {{ ageDouble}}
-      <p v-if="isMajor" class="majeur">
-      vous etes majeur
-      </p>
-      <p v-else class="mineur"> vous etes mineur</p>
+
 
     <div class="form-input">
+
+
       <button :disabled="fieldsAreBlank" @click.prevent="displayAlert()">Sign up</button>
       <button @click="resetAllFields">RESET</button>
 
-      <Cta url="https://hp01.eduservices.org/Annecy02/enseignant?identifiant=sSjJws9XSdABNKeH" text="google" />
-      <Cta url="https://www.fwsfdef.fre" text="mon site " />
 
 
     </div>
+      <Cta url="https://hp01.eduservices.org/Annecy02/enseignant?identifiant=sSjJws9XSdABNKeH" text="google" />
+
+
+      <Cta url="https://www.fwsfdef.fre" text="mon site " />
   </div>
 </template>
 
 <script>
 import Cta from './components/Cta'
+import MajorChecker from './components/MajorChecker'
 
 export default {
   name: 'Login',
   components: {
   //   //  === Cta
-    Cta
+    Cta,
+    MajorChecker
   },
   data() {
     return {
@@ -73,9 +82,6 @@ export default {
     },
   },
   computed: {
-    isMajor() {
-      return this.age > 17 ? true : false
-    },
     ageDouble() {
       return this.age * 2
     },
@@ -105,14 +111,5 @@ export default {
 }
 .form-input label {
   margin-right: 10px;
-}
-
-.majeur {
-  background-color: green;
-  color: white;
-}
-.mineur {
-  background-color: red;
-  color: white;
 }
 </style>

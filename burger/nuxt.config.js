@@ -23,6 +23,7 @@ export default {
   ],
   plugins: [
   ],
+  // auto import des comp.
   components: true,
   buildModules: [
   ],

@@ -7,10 +7,12 @@
     >
 
       <p>Le Fast-Food Pamplemouss’ est situé au centre ville d’Annecy sur une place ensoleillée au bord de Thiou, à l’écart de l’agitation et du bruit.</p>
-      <a
-        href="#"
-        class="btn-gradient"
-      >COMMANDER</a>
+
+      <!-- COMP => gradientBtn -->
+      <gradient-btn url="http://www.ubereats.fr"> 
+          commander
+      </gradient-btn>
+      <!--  -->
 
     </header-pam>
 
@@ -27,4 +29,6 @@
 
 
 <style lang="scss">
+
+
 </style>

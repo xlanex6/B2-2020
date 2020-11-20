@@ -3,8 +3,8 @@
 
     <h1>{{ title }}</h1>
     <p class="hollow">{{ title }}</p>
-    <slot />
-
+            <slot />
+<!--  -->
     <div
       id="illustration"
       v-if="image"
@@ -16,16 +16,24 @@
       <p>Restaurant certifié <strong>100% Bio</strong></p>
     </div>
 
+<!--  -->
+
+
+<!--  SOCIEL SHARE ==> partout -->
     <ul id="social">
       <li><a href="#"><i class="fab fa-instagram"></i></a></li>
       <li><a href="#"><i class="fab fa-twitter"></i></a></li>
       <li><a href="#"><i class="fab fa-facebook"></i></a></li>
     </ul>
+<!--  -->
+
 
     <a
       id="scrowl-down"
       href="#"
-    ><i class="fas fa-arrow-circle-down"></i></a>
+    >
+    <i class="fas fa-arrow-circle-down"></i>
+    </a>
 
   </header>
 </template>

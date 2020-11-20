@@ -4,6 +4,7 @@
     <header-pam title="about">
 
       <p>Nous travaillons à créer un écosystème viable et durable pour tous les acteurs : les consommateurs, les producteurs, les employés, les partenaires. Au fil des années, nous avons construit une vraie expertise en matière de sourcing bio et ainsi noué des liens rapprochés avec nos fournisseurs dont plusieurs d’entre eux nous sont fidèles depuis la création de Pamplemouss’.</p>
+      
     </header-pam>
 
     <info-text>
