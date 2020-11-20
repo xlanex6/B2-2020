@@ -21,7 +21,7 @@
       <label for="age">Age</label>
 
 
-      <input type="number" v-model="age">
+      <input type="number" v-model.number="age">
 
 
     </div>
@@ -32,15 +32,26 @@
       <p v-else class="mineur"> vous etes mineur</p>
 
     <div class="form-input">
-      <button :disabled="fieldsAreBlank" @click="displayAlert()">Sign up</button>
+      <button :disabled="fieldsAreBlank" @click.prevent="displayAlert()">Sign up</button>
       <button @click="resetAllFields">RESET</button>
+
+      <Cta url="https://hp01.eduservices.org/Annecy02/enseignant?identifiant=sSjJws9XSdABNKeH" text="google" />
+      <Cta url="https://www.fwsfdef.fre" text="mon site " />
+
+
     </div>
   </div>
 </template>
 
 <script>
+import Cta from './components/Cta'
+
 export default {
   name: 'Login',
+  components: {
+  //   //  === Cta
+    Cta
+  },
   data() {
     return {
       email: '',
@@ -51,14 +62,14 @@ export default {
     };
   },
   methods: {
-    displayAlert() {
-      alert(`INFOS === EMAIL: ${this.email} === MDP:${this.password} `)
-    },
     resetAllFields(){
       this.email= '',
       this.password= '',
       this.firstName= '',
       this.age= 0
+    },
+    displayAlert() {
+      alert(`INFOS === EMAIL: ${this.email} === MDP:${this.password} `)
     },
   },
   computed: {

@@ -1,21 +1,22 @@
-# MISSION 2.1
+CREER un dossier COMP
 
-### SPEC
+creer UN comp. 'Cta'
 
-- Rendre un champs name obligatoire a la connexion
+template
+script
+style
 
-- Affichez ce compteur que si le champs n'est pas vide
+dans le parent
+import le new comp.
 
-- Créez un boutton qui reset les données
+injecter dans le parent
 
-- Au click sur le button, je lance une alerte en affichant l'email et le password
+utilisiter dna le template
 
-### Bonus:
+ajouter un attribut URL de type string avec le valeur "http..."
 
-- Bloquez le button si l'email et le password ne sont pas remplis.
+pour acceuillir le props dans l'enfant props: ['url']
 
-- l'age ne peux etre QUE superieur a 0
+dans l'enfant on a binder l'attribut href pour lui inject url
 
-- Aucune logique dans le template, déporté les conditions dans la balise script. Grosse mission,
-
-<!-- - Tips pour le bonus, utilisez les watcher, voir la [doc](https://fr.vuejs.org/v2/guide/computed.html#Proprietes-calculees-vs-observees) -->
+mettre slot pour modidifer le text
