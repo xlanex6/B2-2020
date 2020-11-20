@@ -6,12 +6,17 @@
       >
         <slot/>
       </a>
+      <!-- <Name> -->
 </div>
 </template>
 
 <script>
+
+// import Name from './burgerFooter'
+
 export default {
   name: "",
+  // components:{Name},
   props: ['url'],
   data() {
       return {

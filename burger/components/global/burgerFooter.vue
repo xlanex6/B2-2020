@@ -10,6 +10,7 @@
     </div>
     <div class="footer-col">
       <p>23 rue de la joie 74000 Annecy</p>
+        <social-share display="inline" />
     </div>
     <div class="footer-col">
       <form
@@ -80,5 +81,9 @@ export default {
   background: $coolGrad;
   border: none;
   padding: 8px 12px;
+}
+
+.footer-social {
+  display: flex;
 }
 </style>

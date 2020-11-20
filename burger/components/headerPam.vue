@@ -16,17 +16,6 @@
       <p>Restaurant certifié <strong>100% Bio</strong></p>
     </div>
 
-<!--  -->
-
-
-<!--  SOCIEL SHARE ==> partout -->
-    <ul id="social">
-      <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-      <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-      <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-    </ul>
-<!--  -->
-
 
     <a
       id="scrowl-down"
@@ -92,36 +81,6 @@ header {
   color: white;
   font-size: 60px;
   /* transform: translateX(-50%); */
-}
-
-#social {
-  position: absolute;
-  right: -100px;
-  top: 50%;
-}
-
-/* #social ul {
-  border: solid 2px red;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-} */
-
-#social li {
-  height: 45px;
-  width: 45px;
-  border-radius: 50%;
-  list-style-type: none;
-  background-color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 10px;
-  font-size: 20px;
-}
-
-#social li i {
-  color: #e30870;
 }
 
 .hollow {

@@ -2,7 +2,8 @@
   <div>
     <div id="background"></div>
     <navbar />
-    <Nuxt />
+    <social-share display="fixed"/>
+        <Nuxt />
     <burger-footer />
   </div>
 </template>
