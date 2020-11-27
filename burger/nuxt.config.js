@@ -22,6 +22,7 @@ export default {
   css: ['~/assets/scss/main.scss','~/assets/scss/button.scss','~/assets/scss/colors.scss','~/assets/scss/utility.scss'
   ],
   plugins: [
+    { src: '~/node_modules/vue-rellax/lib/nuxt-plugin', ssr: false }
   ],
   // auto import des comp.
   components: true,

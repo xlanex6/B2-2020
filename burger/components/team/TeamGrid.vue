@@ -1,5 +1,5 @@
 <template>
-  <div id="teamGrid">
+  <div id="teamGrid" v-rellax="parallaxOption">
             <div class="user" v-for="user in users" :key="user.id">
               <h3>
                 {{ user.name }}
@@ -21,7 +21,10 @@ export default {
   name: "teamGrid",
   data() {
       return {
-        users : []
+        users : [],
+        parallaxOption: {
+          speed: -1
+        }
       }
   },
   methods: {

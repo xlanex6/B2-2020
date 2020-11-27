@@ -2,7 +2,7 @@
   <header>
 
     <h1>{{ title }}</h1>
-    <p class="hollow">{{ title }}</p>
+    <p class="hollow" v-rellax="{speed: -8}">{{ title }}</p>
             <slot />
 <!--  -->
     <div
@@ -10,6 +10,7 @@
       v-if="image"
     >
       <img
+      v-rellax="{speed: -3, percentage: 0.5}"
         src="@/assets/images/burgerFull.png"
         alt="burger is good"
       >

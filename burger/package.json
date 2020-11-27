@@ -11,7 +11,8 @@
     "production": "npm run build && nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.14.7"
+    "nuxt": "^2.14.7",
+    "vue-rellax": "^0.2.0"
   },
   "devDependencies": {
     "@nuxtjs/style-resources": "^1.0.0",
