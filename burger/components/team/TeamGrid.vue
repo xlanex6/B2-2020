@@ -27,10 +27,13 @@ export default {
   methods: {
     async fetchUsers() {
         const api = 'https://jsonplaceholder.typicode.com/users'
-
-        const response = await fetch(api);
-        // Vue.teamgrid.data.users = await response.json()
-        this.users = await response.json()
+        try {
+          const response = await fetch(api);
+          // Vue.teamgrid.data.users = await response.json()
+          this.users = await response.json()
+        } catch (error) {
+          console.log(error);
+        }
         
     }
   },
