@@ -6,33 +6,35 @@
         alt="logo"
       >
     </nuxt-link>
+
+
     <nuxt-link
-      to="/"
+      v-for="item in items" 
+      :key="item.name"
+      :to="item.page"
       class="button"
-    >Accueil</nuxt-link>
-    <nuxt-link
-      to="/history"
-      class="button"
-    >Notre histoire</nuxt-link>
-    <nuxt-link
-      to="/engage"
-      class="button"
-    >Nos engagements</nuxt-link>
-    <nuxt-link
-      to="/about"
-      class="button"
-    >A propos</nuxt-link>
-    <nuxt-link
-      to="/products"
-      class="button"
-    >Nos produits</nuxt-link>
-    <nuxt-link
-      to="/contact"
-      class="button"
-    >Contact</nuxt-link>
+    >{{item.name}}</nuxt-link>
 
   </nav>
 </template>
+
+<script>
+export default {
+  name: 'Navbar',
+    data() {
+      return {
+        items: [
+          {name: 'Accueil', page: '/'},
+          {name: 'Notre histoire', page: '/history'},
+          {name: 'Equipe', page: '/team'},
+          {name: 'A propos', page: '/about'},
+          {name: 'Menu', page: '/products'},
+          {name: 'Contact', page: '/contact'}
+        ]
+      }
+    }
+}
+</script>
 
 <style lang="scss" scoped>
 nav {

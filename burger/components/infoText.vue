@@ -40,7 +40,7 @@
   font-size: 30px;
   font-family: "Quicksand";
   text-align: center;
-  width: 800px;
+  width: 1024px;
   margin: auto;
 }
 .text p {
