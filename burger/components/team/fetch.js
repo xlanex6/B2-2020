@@ -7,9 +7,21 @@
 
 // DB => data => API =>  JSON
 
-// FRONT 
-// API
-// BACK
+// =================================
+
+
+// FRONT   vue react html   => CDN
+
+//        ||||||  API  |||||   JSON   graphql  REST  soap   rpc
+
+// BACK  php GO c++ JS python ruby    => server
+
+//  DB sql nosql    => database
+
+
+// =================================
+
+
 const URL = 'https://jsonplaceholder.typicode.com/users'
 
 // PROMISE based
@@ -23,3 +35,24 @@ fetch(URL)
 
   // async-await
   
+
+// callBack   Hell
+
+// function ABC() {
+//   dewwdedwedwd
+// }
+
+// ABC(  , callback {
+//   ABC(  , callback {
+//     ABC(  , callback {
+//       ABC(  , callback { })
+//   })
+  
+//   })
+  
+// })
+  
+// promise then
+
+// async await ES6  ecmac2016
+
